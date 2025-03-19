@@ -91,4 +91,4 @@ The break down of the final provided CNN architecture step by step:
 
 ## Collaborators
 
-Created by [Vishwanath Madhu] https://github.com/vismadhu/
+Created by [@Vishwanath Madhu] https://github.com/vismadhu/
